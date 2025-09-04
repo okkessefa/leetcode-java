@@ -102,3 +102,4 @@ git push
 | 118 | Pascal’s Triangle                   | Easy | `PascalsTriangle.java`              | O(n²)         | O(n²)  |
 | 119 | Pascal’s Triangle II                | Easy | `PascalsTriangleII.java`            | O(n²)/O(n)    | O(n)   |
 | 121 | Best Time to Buy and Sell Stock     | Easy | `BestTimeToBuyAndSellStock.java`    | O(n)          | O(1)   |
+| 136 | Single Number                       | Easy | `findSingleNumber.java`             | O(n)          | O(1)   |
