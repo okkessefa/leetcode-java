@@ -105,3 +105,4 @@ git push
 | 136 | Single Number                       | Easy | `findSingleNumber.java`             | O(n)          | O(1)   |
 | 9   | Palindrome Number                   | Easy | `IsPalindromeNumber.java`           | O(n)          | O(1)   |
 | 169 | Majority Element                    | Easy | `majorityElement.java`              | O(n)          | O(1)   |
+| 28  | First Occurrence in a String        | Easy | `FirstOccurrenceString.java`        | O(n + m)      | O(m)   |
