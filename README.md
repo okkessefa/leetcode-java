@@ -104,3 +104,4 @@ git push
 | 121 | Best Time to Buy and Sell Stock     | Easy | `BestTimeToBuyAndSellStock.java`    | O(n)          | O(1)   |
 | 136 | Single Number                       | Easy | `findSingleNumber.java`             | O(n)          | O(1)   |
 | 9   | Palindrome Number                   | Easy | `IsPalindromeNumber.java`           | O(n)          | O(1)   |
+| 169 | Majority Element                    | Easy | `majorityElement.java`              | O(n)          | O(1)   |
