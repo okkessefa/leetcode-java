@@ -106,3 +106,4 @@ git push
 | 9   | Palindrome Number                   | Easy | `IsPalindromeNumber.java`           | O(n)          | O(1)   |
 | 169 | Majority Element                    | Easy | `majorityElement.java`              | O(n)          | O(1)   |
 | 28  | First Occurrence in a String        | Easy | `FirstOccurrenceString.java`        | O(n + m)      | O(m)   |
+| 217 | Contains Duplicate                  | Easy | `dublicatedNumber.java`             | O(n)          | O(n)   |
