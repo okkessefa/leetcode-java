@@ -108,3 +108,4 @@ git push
 | 28  | First Occurrence in a String        | Easy | `FirstOccurrenceString.java`        | O(n + m)      | O(m)   |
 | 217 | Contains Duplicate                  | Easy | `dublicatedNumber.java`             | O(n)          | O(n)   |
 | 219 | Contains Duplicate II               | Easy | `Distanceindicate.java`             | O(n)          | O(min(n,k)) |
+| 58  | Length of Last Word                 | Easy | `lengthOfLastWord.java`             | O(n)          | O(1)   |
