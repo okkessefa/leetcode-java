@@ -110,3 +110,4 @@ git push
 | 219 | Contains Duplicate II               | Easy | `Distanceindicate.java`             | O(n)          | O(min(n,k)) |
 | 58  | Length of Last Word                 | Easy | `lengthOfLastWord.java`             | O(n)          | O(1)   |
 | 69  | Sqrt(x)                             | Easy | `SquareRoot.java`                   | O(log x)      | O(1)   |
+| 2327 | Number of People Aware of a Secret | Medium | `HasSecret.java`                  | O(n)          | O(n)   |
