@@ -63,6 +63,7 @@ java TwoSum
 | 69  | Sqrt(x)                             | Easy | `SquareRoot.java`                   | O(log x)      | O(1)   |
 | 2327 | Number of People Aware of a Secret | Medium | `HasSecret.java`                  | O(n)          | O(n)   |
 | 228 | Summary Ranges                      | Easy | `summaryRanges.java`                | O(1)          | O(n)   |
+| 20  | Valid Parantheses                   | Easy | `validParantheses.java`             | O(n)          | O(n)   |
 
 ---
 
