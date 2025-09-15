@@ -64,6 +64,7 @@ java TwoSum
 | 2327 | Number of People Aware of a Secret | Medium | `HasSecret.java`                  | O(n)          | O(n)   |
 | 228 | Summary Ranges                      | Easy | `summaryRanges.java`                | O(1)          | O(n)   |
 | 20  | Valid Parantheses                   | Easy | `validParantheses.java`             | O(n)          | O(n)   |
+| 3523 | Make Array Non-decreasing          | Medium | `makeArrayNonDecreasing.java`     | O(n)          | O(1)   |
 
 ---
 
