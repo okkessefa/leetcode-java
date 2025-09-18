@@ -69,6 +69,7 @@ java TwoSum
 | 238  | Product of Array Except Self      | Medium | `productOfArray.java`              | O(n)          | O(1)   |
 | 53   | Maximum Subarray                  | Medium | `maximumSubarray.java`             | O(n)          | O(1)   |
 | 152  |  Maximum Product Subarray         | Medium | `maximumProductSubarray.java`      | O(n)          | O(1)   |
+| 966  |  Vowel Spellchecker               | Medium | `vowelSpellchecker.java`           |  O((W + Q) × L) |  O(W × L)  |
 
 ---
 
