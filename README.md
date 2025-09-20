@@ -42,35 +42,36 @@ java TwoSum
 
 ## 📊 Solved Problems
 
-| 1   | Two Sum                             | Easy | `TwoSum.java`                       | O(n)          | O(n)   |
-| 14  | Longest Common Prefix               | Easy | `LongestCommonPrefix.java`          | O(S)          | O(1)   |
-| 26  | Remove Duplicates from Sorted Array | Easy | `RemoveDuplicatesFromSortedArray.java` | O(n)       | O(1)   |
-| 27  | Remove Element                      | Easy | `RemoveElement.java`                | O(n)          | O(1)   |
-| 35  | Search Insert Position              | Easy | `SearchInsertPosition.java`         | O(log n)      | O(1)   |
-| 66  | Plus One                            | Easy | `PlusOne.java`                      | O(n)          | O(1)   |
-| 88  | Merge Sorted Array                  | Easy | `MergeSortedArray.java`             | O(m+n)        | O(1)   |
-| 108 | Convert Sorted Array to BST         | Easy | `ConvertSortedArrayToBST.java`      | O(n)          | O(log n) |
-| 118 | Pascal’s Triangle                   | Easy | `PascalsTriangle.java`              | O(n²)         | O(n²)  |
-| 119 | Pascal’s Triangle II                | Easy | `PascalsTriangleII.java`            | O(n²)/O(n)    | O(n)   |
-| 121 | Best Time to Buy and Sell Stock     | Easy | `BestTimeToBuyAndSellStock.java`    | O(n)          | O(1)   |
-| 136 | Single Number                       | Easy | `findSingleNumber.java`             | O(n)          | O(1)   |
-| 9   | Palindrome Number                   | Easy | `IsPalindromeNumber.java`           | O(n)          | O(1)   |
-| 169 | Majority Element                    | Easy | `majorityElement.java`              | O(n)          | O(1)   |
-| 28  | First Occurrence in a String        | Easy | `FirstOccurrenceString.java`        | O(n + m)      | O(m)   |
-| 217 | Contains Duplicate                  | Easy | `dublicatedNumber.java`             | O(n)          | O(n)   |
-| 219 | Contains Duplicate II               | Easy | `Distanceindicate.java`             | O(n)          | O(min(n,k)) |
-| 58  | Length of Last Word                 | Easy | `lengthOfLastWord.java`             | O(n)          | O(1)   |
-| 69  | Sqrt(x)                             | Easy | `SquareRoot.java`                   | O(log x)      | O(1)   |
-| 2327 | Number of People Aware of a Secret | Medium | `HasSecret.java`                  | O(n)          | O(n)   |
-| 228 | Summary Ranges                      | Easy | `summaryRanges.java`                | O(1)          | O(n)   |
-| 20  | Valid Parantheses                   | Easy | `validParantheses.java`             | O(n)          | O(n)   |
-| 3523 | Make Array Non-decreasing          | Medium | `makeArrayNonDecreasing.java`     | O(n)          | O(1)   |
-| 1304 | Find N Unique Integers Sum up to Zero | Medium | `uniqueIntegers.java`          | O(n)          | O(1)   |
-| 238  | Product of Array Except Self      | Medium | `productOfArray.java`              | O(n)          | O(1)   |
-| 53   | Maximum Subarray                  | Medium | `maximumSubarray.java`             | O(n)          | O(1)   |
-| 152  |  Maximum Product Subarray         | Medium | `maximumProductSubarray.java`      | O(n)          | O(1)   |
+| 1   | Two Sum                             | Easy | `TwoSum.java`                       | O(n)            | O(n)   |
+| 14  | Longest Common Prefix               | Easy | `LongestCommonPrefix.java`          | O(S)            | O(1)   |
+| 26  | Remove Duplicates from Sorted Array | Easy | `RemoveDuplicatesFromSortedArray.java` | O(n)         | O(1)   |
+| 27  | Remove Element                      | Easy | `RemoveElement.java`                | O(n)            | O(1)   |
+| 35  | Search Insert Position              | Easy | `SearchInsertPosition.java`         | O(log n)        | O(1)   |
+| 66  | Plus One                            | Easy | `PlusOne.java`                      | O(n)            | O(1)   |
+| 88  | Merge Sorted Array                  | Easy | `MergeSortedArray.java`             | O(m+n)          | O(1)   |
+| 108 | Convert Sorted Array to BST         | Easy | `ConvertSortedArrayToBST.java`      | O(n)            | O(log n) |
+| 118 | Pascal’s Triangle                   | Easy | `PascalsTriangle.java`              | O(n²)           | O(n²)  |
+| 119 | Pascal’s Triangle II                | Easy | `PascalsTriangleII.java`            | O(n²)/O(n)      | O(n)   |
+| 121 | Best Time to Buy and Sell Stock     | Easy | `BestTimeToBuyAndSellStock.java`    | O(n)            | O(1)   |
+| 136 | Single Number                       | Easy | `findSingleNumber.java`             | O(n)            | O(1)   |
+| 9   | Palindrome Number                   | Easy | `IsPalindromeNumber.java`           | O(n)            | O(1)   |
+| 169 | Majority Element                    | Easy | `majorityElement.java`              | O(n)            | O(1)   |
+| 28  | First Occurrence in a String        | Easy | `FirstOccurrenceString.java`        | O(n + m)        | O(m)   |
+| 217 | Contains Duplicate                  | Easy | `dublicatedNumber.java`             | O(n)            | O(n)   |
+| 219 | Contains Duplicate II               | Easy | `Distanceindicate.java`             | O(n)            | O(min(n,k)) |
+| 58  | Length of Last Word                 | Easy | `lengthOfLastWord.java`             | O(n)            | O(1)   |
+| 69  | Sqrt(x)                             | Easy | `SquareRoot.java`                   | O(log x)        | O(1)   |
+| 2327 | Number of People Aware of a Secret | Medium | `HasSecret.java`                  | O(n)            | O(n)   |
+| 228 | Summary Ranges                      | Easy | `summaryRanges.java`                | O(1)            | O(n)   |
+| 20  | Valid Parantheses                   | Easy | `validParantheses.java`             | O(n)            | O(n)   |
+| 3523 | Make Array Non-decreasing          | Medium | `makeArrayNonDecreasing.java`     | O(n)            | O(1)   |
+| 1304 | Find N Unique Integers Sum up to Zero | Medium | `uniqueIntegers.java`          | O(n)            | O(1)   |
+| 238  | Product of Array Except Self      | Medium | `productOfArray.java`              | O(n)            | O(1)   |
+| 53   | Maximum Subarray                  | Medium | `maximumSubarray.java`             | O(n)            | O(1)   |
+| 152  |  Maximum Product Subarray         | Medium | `maximumProductSubarray.java`      | O(n)            | O(1)   |
 | 966  |  Vowel Spellchecker               | Medium | `vowelSpellchecker.java`           |  O((W + Q) × L) |  O(W × L)  |
-| 7    |  Reverse Integer                  | Medium | `reverseInteger.java   `           |  O(log|x|)    |  O(1)  |
+| 7    |  Reverse Integer                  | Medium | `reverseInteger.java`              |  O(log|x|)      |  O(1)  |
+| 50   |  Pow(x, n)                        | Medium | `raisedToThePower.java`            |  O(log|n|)      |  O(1)  |
 
 ---
 
