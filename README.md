@@ -73,6 +73,7 @@ java TwoSum
 | 7    |  Reverse Integer                  | Medium | `reverseInteger.java`              |  O(log|x|)      |  O(1)  |
 | 50   |  Pow(x, n)                        | Medium | `raisedToThePower.java`            |  O(log|n|)      |  O(1)  |
 | 11   |  Container With Most Water        | Medium | `waterHeıght.java`                 |  O(n)           |  O(1)  |
+| 3    |  Longest Substring Without Repeating Characters | Medium | `nonDublicatedSubstring.java`      |  O(n)           |  O(k)  |
 
 ---
 
