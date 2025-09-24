@@ -75,6 +75,7 @@ java TwoSum
 | 11   |  Container With Most Water        | Medium | `waterHeıght.java`                 |  O(n)           |  O(1)  |
 | 3    |  Longest Substring Without Repeating Characters | Medium | `nonDublicatedSubstring.java`      |  O(n)           |  O(k)  |
 | 165  |  Compare Version Number           | Medium | `compareVersionNumber.java`       |  O(L1 + L2)      |  O(L1 + L2)  |
+| 166  |  Fraction to Recurring Decimal    | Medium | `fractionReccurringDecimal.java`  |  O(denominator)  |  O(denominator) |
 
 ---
 
