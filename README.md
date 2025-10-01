@@ -79,6 +79,7 @@ java TwoSum
 | 611  |  Valid Triangle Number            | Medium | `triangle_inequality.java`        |  O(n²)           |  O(1)  |
 | 812  |  Largest Triangle Area            | Easy   | `largestTriangleArea.java`        |  O(n3)           |  O(1)  |
 | 976  |  Largest Perimeter Triangle       | Easy   | `largestPerimeterTriangle.java`   |  O(n log n)      |  O(log n)  |
+| 1039 |  Minimum Score Triangulation of Polygon | Medium  | `polygon.java`             |  O(n²).          | O(n²)   |
 
 ---
 
