@@ -30,14 +30,14 @@ class Solution {
             if (l2 != null) l2 = l2.next;
 
         }
-        current = reverseList(current);
+        //current = reverseList(current);
         
         
         return realHead.next;
 
-        
+        }    
     }
-    static ListNode reverseList(ListNode current){
+    /*static ListNode reverseList(ListNode current){
         
         if(current == null || current.next == null) return current;
         
@@ -50,3 +50,4 @@ class Solution {
         return rest;
     }
 }
+*/
