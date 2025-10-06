@@ -68,20 +68,21 @@ java TwoSum
 | 1304 | Find N Unique Integers Sum up to Zero | Medium | `uniqueIntegers.java`          | O(n)            | O(1)   |
 | 238  | Product of Array Except Self      | Medium | `productOfArray.java`              | O(n)            | O(1)   |
 | 53   | Maximum Subarray                  | Medium | `maximumSubarray.java`             | O(n)            | O(1)   |
-| 152  |  Maximum Product Subarray         | Medium | `maximumProductSubarray.java`      | O(n)            | O(1)   |
-| 966  |  Vowel Spellchecker               | Medium | `vowelSpellchecker.java`           |  O((W + Q) × L) |  O(W × L)  |
-| 7    |  Reverse Integer                  | Medium | `reverseInteger.java`              |  O(log|x|)      |  O(1)  |
-| 50   |  Pow(x, n)                        | Medium | `raisedToThePower.java`            |  O(log|n|)      |  O(1)  |
-| 11   |  Container With Most Water        | Medium | `waterHeıght.java`                 |  O(n)           |  O(1)  |
-| 3    |  Longest Substring Without Repeating Characters | Medium | `nonDublicatedSubstring.java`      |  O(n)           |  O(k)  |
-| 165  |  Compare Version Number           | Medium | `compareVersionNumber.java`       |  O(L1 + L2)      |  O(L1 + L2)  |
-| 166  |  Fraction to Recurring Decimal    | Medium | `fractionReccurringDecimal.java`  |  O(denominator)  |  O(denominator) |
-| 611  |  Valid Triangle Number            | Medium | `triangle_inequality.java`        |  O(n²)           |  O(1)  |
-| 812  |  Largest Triangle Area            | Easy   | `largestTriangleArea.java`        |  O(n3)           |  O(1)  |
-| 976  |  Largest Perimeter Triangle       | Easy   | `largestPerimeterTriangle.java`   |  O(n log n)      |  O(log n)  |
-| 1039 |  Minimum Score Triangulation of Polygon | Medium  | `polygon.java`             |  O(n²).          | O(n²)   |
-| 3100 |  Water Bottles II                | Medium  | `bottlewaterII.java`              |  O(numBottles)   | O(1)   |
-| 2    |  Add Two Numbers                 | Medium  | `addTwoSum.java`                  |  O(max(m, n))    | O(1) auxiliary |
+| 152  | Maximum Product Subarray         | Medium | `maximumProductSubarray.java`      | O(n)            | O(1)   |
+| 966  | Vowel Spellchecker               | Medium | `vowelSpellchecker.java`           |  O((W + Q) × L) |  O(W × L)  |
+| 7    | Reverse Integer                  | Medium | `reverseInteger.java`              |  O(log|x|)      |  O(1)  |
+| 50   | Pow(x, n)                        | Medium | `raisedToThePower.java`            |  O(log|n|)      |  O(1)  |
+| 11   | Container With Most Water        | Medium | `waterHeıght.java`                 |  O(n)           |  O(1)  |
+| 3    | Longest Substring Without Repeating Characters | Medium | `nonDublicatedSubstring.java`      |  O(n)           |  O(k)  |
+| 165  | Compare Version Number           | Medium | `compareVersionNumber.java`       |  O(L1 + L2)      |  O(L1 + L2)  |
+| 166  | Fraction to Recurring Decimal    | Medium | `fractionReccurringDecimal.java`  |  O(denominator)  |  O(denominator) |
+| 611  | Valid Triangle Number            | Medium | `triangle_inequality.java`        |  O(n²)           |  O(1)  |
+| 812  | Largest Triangle Area            | Easy   | `largestTriangleArea.java`        |  O(n3)           |  O(1)  |
+| 976  | Largest Perimeter Triangle       | Easy   | `largestPerimeterTriangle.java`   |  O(n log n)      |  O(log n)  |
+| 1039 | Minimum Score Triangulation of Polygon | Medium  | `polygon.java`             |  O(n²).          | O(n²)   |
+| 3100 | Water Bottles II                 | Medium  | `bottlewaterII.java`              |  O(numBottles)   | O(1)   |
+| 2    | Add Two Numbers                  | Medium  | `addTwoSum.java`                  |  O(max(m, n))    | O(1) auxiliary |
+| 19   | Remove Nth Node From End of List | Medium  | `removeNthPositionFromEnd.java`   |  O(n)            | O(1)   |
 
 ---
 
