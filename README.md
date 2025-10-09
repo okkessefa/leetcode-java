@@ -82,7 +82,7 @@ java TwoSum
 | 1039 | Minimum Score Triangulation of Polygon | Medium  | `polygon.java`             |  O(n²).          | O(n²)   |
 | 3100 | Water Bottles II                 | Medium  | `bottlewaterII.java`              |  O(numBottles)   | O(1)   |
 | 2    | Add Two Numbers                  | Medium  | `addTwoSum.java`                  |  O(max(m, n))    | O(1) auxiliary |
-| 19   | Remove Nth Node From End of List | Medium  | `removeNthPositionFromEnd.java`   |  O(n)            | O(1)   |
+| 67   | Add Binary                       | Easy   | `AddBinary.java`                  |  O(L)            | O(L)   |
 
 ---
 
