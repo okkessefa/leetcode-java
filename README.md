@@ -83,6 +83,7 @@ java TwoSum
 | 3100 | Water Bottles II                 | Medium  | `bottlewaterII.java`              |  O(numBottles)   | O(1)   |
 | 2    | Add Two Numbers                  | Medium  | `addTwoSum.java`                  |  O(max(m, n))    | O(1) auxiliary |
 | 67   | Add Binary                       | Easy   | `AddBinary.java`                  |  O(L)            | O(L)   |
+| 4    | Median of Two Sorted Arrays      | Hard   | `MedianOfTwoSortedArray.java`     |  O(log min(m, n)) | O(1)   |
 
 ---
 
