@@ -1,1 +1,40 @@
-*.ini
+# ==============================
+# Java Build and Output
+# ==============================
+bin/
+out/
+target/
+*.class
+
+# ==============================
+# VS Code and Editor Settings
+# ==============================
+.vscode/
+.settings/
+.classpath
+.project
+factorypath
+
+# ==============================
+# Logs and Temporary Files
+# ==============================
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ==============================
+# OS-Specific Junk
+# ==============================
+.DS_Store
+Thumbs.db
+
+# ==============================
+# IntelliJ / Eclipse / Build Tools
+# ==============================
+.idea/
+*.iml
+.gradle/
+build/
+.mvn/
