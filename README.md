@@ -84,8 +84,9 @@ java TwoSum
 | 2    | Add Two Numbers                  | Medium  | `addTwoSum.java`                  |  O(max(m, n))    | O(1) auxiliary |
 | 67   | Add Binary                       | Easy   | `AddBinary.java`                  |  O(L)            | O(L)   |
 | 4    | Median of Two Sorted Arrays      | Hard   | `MedianOfTwoSortedArray.java`     |  O(log min(m, n)) | O(1)   |
-| 29   | Divide Two Integers              | Hard   | `DivideTwoNumber.java`     |  O(log(dividend/divisor)) | O(1)   |
-| 75   | Sort Colors                      | Hard   | `sortcolors.java`                 |  O(n)             | O(1)   |
+| 29   | Divide Two Integers              | Medium  | `DivideTwoNumber.java`     |  O(log(dividend/divisor)) | O(1)   |
+| 75   | Sort Colors                      | MEdium   | `sortcolors.java`                 |  O(n)             | O(1)   |
+| 120  | Triangle                         | Medium   | `sortcolors.java`                 |  O(n^2)             | O(n)   |
 
 ---
 
