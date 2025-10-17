@@ -44,8 +44,8 @@ java TwoSum
 
 | 1    | Two Sum                                               | Easy   | `TwoSum.java`                            | O(n)                     | O(n)             |
 | 14   | Longest Common Prefix                                 | Easy   | `LongestCommonPrefix.java`               | O(S)                     | O(1)             |
-| 26   | Remove Duplicates from Sorted Array                   | Easy   | `RemoveDuplicatesFromSortedArray.java`   | O(n)                     | O(1)             |
-| 27   | Remove Element                                        | Easy   | `RemoveElement.java`                     | O(n)                     | O(1)             |
+| 26   | Remove Duplicates from Sorted Array                   | Easy   | `RemoveDublicate.java`                   | O(n)                     | O(1)             |
+| 27   | Remove Element                                        | Easy   | `RemoveTargetElement.java`               | O(n)                     | O(1)             |
 | 35   | Search Insert Position                                | Easy   | `SearchInsertPosition.java`              | O(log n)                 | O(1)             |
 | 66   | Plus One                                              | Easy   | `PlusOne.java`                           | O(n)                     | O(1)             |
 | 88   | Merge Sorted Array                                    | Easy   | `MergeSortedArray.java`                  | O(m+n)                   | O(1)             |
