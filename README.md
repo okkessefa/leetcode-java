@@ -90,6 +90,7 @@ java TwoSum
 | 122  | Triangle                                               | Medium | `maxProfit.java`                         | O(n)                     | O(1)             |
 | 2598 | Smallest Missing Non-negative Integer After Operations | Medium | `smallestMissingNonNegativeInteger.java` | O(n)                     | O(value)         |
 | 3397 | Maximum Number of Distinct Elements After Operations   | Medium | `maximumNumberofDistinctElement.java`    | O(n log n)               | O(log n)         |
+| 70   | Climbing Stairs                                        | Easy   | `climbingStairs.java`                    | O(n)                     | O(n)             |
 
 ---
 
