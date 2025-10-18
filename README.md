@@ -92,6 +92,7 @@ java TwoSum
 | 3397 | Maximum Number of Distinct Elements After Operations   | Medium | `maximumNumberofDistinctElement.java`    | O(n log n)               | O(log n)         |
 | 70   | Climbing Stairs                                        | Easy   | `climbingStairs.java`                    | O(n)                     | O(n)             |
 | 746  | Min Cost Climbing Stairs                               | Easy   | `minCostClimbingStairs.java`             | O(n)                     | O(n)             |
+| 62   | Unique Path                                            | Medium | `uniquePath.java`                        | O(m*n)                   | O(m*n)           |
 
 ---
 
