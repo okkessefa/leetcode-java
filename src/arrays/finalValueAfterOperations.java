@@ -24,5 +24,12 @@ class Solution {
             }
         }
         return finalValue;
+        
+        // other method with ternary operator
+        int finalValue = 0;
+        for(String op: operations){
+            finalValue += (op.charAt(1) == '+') ? 1 : -1;
+        } 
+        return finalValue;
     }
 }
