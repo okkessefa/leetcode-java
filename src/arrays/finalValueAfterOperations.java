@@ -1,12 +1,11 @@
 class Solution {
     public int finalValueAfterOperations(String[] operations) {
-        // define finalValue = 0;
-        // traver the array with for loop
-        // index j=0;
-        //while j<=2 get the elemeents of i and 
-        // if it is X continue;
-        // else if "+" increase the finalValue by 1  and break;
-        // else decrease the final value by one and break;  
+        // Define finalValue = 0.
+        // Traverse the array with a for loop.
+        // For each string, scan its characters.
+        // If you see 'X', continue.
+        // If you see '+', increment finalValue and break.
+        // Else (it's '-'), decrement finalValue and break. 
         int finalValue = 0;
         for(int i = 0; i<operations.length; i++)
         {

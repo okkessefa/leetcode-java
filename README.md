@@ -93,6 +93,7 @@ java TwoSum
 | 70   | Climbing Stairs                                        | Easy   | `climbingStairs.java`                    | O(n)                     | O(n)             |
 | 746  | Min Cost Climbing Stairs                               | Easy   | `minCostClimbingStairs.java`             | O(n)                     | O(n)             |
 | 62   | Unique Path                                            | Medium | `uniquePath.java`                        | O(m*n)                   | O(m*n)           |
+| 2011 | Final Value of Variable After Performing Operations    | Easy   | `finalValueAfterOperations.java`         | O(n)                     | O(1)             |
 
 ---
 
