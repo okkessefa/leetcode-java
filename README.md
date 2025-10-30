@@ -96,6 +96,7 @@ java TwoSum
 | 2011 | Final Value of Variable After Performing Operations    | Easy   | `finalValueAfterOperations.java`         | O(n)                     | O(1)             |
 | 1143 | Longest Common Subsequence                             | Medium | `LongestCommonSubsequence.java`          | O(m*n)                   | O(m*n)           |
 | 3370 | Smallest Number With All Set Bits                      | Easy   | `SmallestNumberWithAllSetBits.java`      | O(log n)                 | O(1)             |
+| 32   | Longest Valid Parentheses                              | Hard   | `LongestValidParentheses.java`           | O(n)                     | O(n)             |
 
 ---
 
