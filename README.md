@@ -98,6 +98,7 @@ java TwoSum
 | 3370 | Smallest Number With All Set Bits                      | Easy   | `SmallestNumberWithAllSetBits.java`            | O(log n)                 | O(1)             |
 | 32   | Longest Valid Parentheses                              | Hard   | `LongestValidParentheses.java`                 | O(n)                     | O(n)             |
 | 3217 | Delete Nodes From LinkedList Present in Array          | Medium | `DeleteNodesFromLinkedListPresentInArray.java` | O(m+n)                   | O(m)             |
+| 1578 | Minimum Time to Make Rope Colorful                     | Medium | `MinimumTimeToMakeRopeColorful.java`           | O(n)                     | O(1)             |
 
 ---
 
