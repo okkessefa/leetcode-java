@@ -1,6 +1,5 @@
 class Solution {
     public int[] findXSum(int[] nums, int k, int x) {
-        int timer = 0;
         int n = nums.length;
         if(k<=0 || k>n) return new int[0];
         int window = n-k+1;
