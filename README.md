@@ -99,7 +99,8 @@ java TwoSum
 | 32   | Longest Valid Parentheses                              | Hard   | `LongestValidParentheses.java`                 | O(n)                     | O(n)             |
 | 3217 | Delete Nodes From LinkedList Present in Array          | Medium | `DeleteNodesFromLinkedListPresentInArray.java` | O(m+n)                   | O(m)             |
 | 1578 | Minimum Time to Make Rope Colorful                     | Medium | `MinimumTimeToMakeRopeColorful.java`           | O(n)                     | O(1)             |
-| 3318 | Find X-Sum of All K-Long Subarrays I                   | Easy   | `MinimumTimeToMakeRopeColorful.java`           | O((n−k+1)⋅(klogk+xk))     | O(n)             |
+| 3318 | Find X-Sum of All K-Long Subarrays I                   | Easy   | `MinimumTimeToMakeRopeColorful.java`           | O((n−k+1)⋅(klogk+xk))    | O(n)             |
+| 1578 | Merge Two Sorted Lists                                 | Easy   | `MergeTwoSortedLists.java`                     | O(m+n)                   | O(1)             |
 
 ---
 
